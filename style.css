@@ -1,0 +1,37 @@
+.carregris, .carrejaune, .carreorange, .carrenoir
+
+{
+	border: 0.1px solid white;
+	padding: 15px;
+
+}
+
+
+.carregris
+{
+	background-color: #333333;
+}
+
+.carreblanc
+{
+	background-color: white;
+}
+
+.carrenoir
+{
+	background-color: black;
+}
+
+.carreorange
+{
+	background-color: #FF8830;
+}
+
+.carrejaune
+{
+	background-color: #FFD133;
+}
+.container
+{
+	max-width: 500px;
+}
