@@ -1,4 +1,5 @@
 
+
 .carregris, .carrejaune, .carreorange, .carrenoir
 
 {
@@ -35,6 +36,7 @@
 .container
 {
 	max-width: 450px;
+	min-width: 450px;
 }
 
 .row.no-gutter {
